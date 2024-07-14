@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of award-winning movies with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which movie won Best Picture in 1994?",
+      "answers": ["Forrest", "Pulp", "Shawshank"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who directed Titanic?",
+      "answers": ["Cameron", "Spielberg", "Scorsese"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who starred in Gladiator?",
+      "answers": ["Crowe", "Hanks", "Pitt"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie won Best Picture in 2020?",
+      "answers": ["Parasite", "1917", "Joker"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed Schindler's List?",
+      "answers": ["Spielberg", "Cameron", "Scorsese"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who starred in The Revenant?",
+      "answers": ["DiCaprio", "Depp", "Bale"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie won Best Picture in 2000?",
+      "answers": ["Gladiator", "Traffic", "Erin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who directed The Shape of Water?",
+      "answers": ["Del Toro", "Cuaron", "Inarritu"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who starred in La La Land?",
+      "answers": ["Gosling", "Reynolds", "Evans"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which movie won Best Picture in 2019?",
+      "answers": ["Green", "Roma", "Bohemian"],
       "correctAnswerIndex": 0
     }
   ]
